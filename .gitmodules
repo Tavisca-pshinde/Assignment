@@ -1,0 +1,6 @@
+[submodule "Documents/Visual Studio 2017/Projects/LoggingAssignment/platform-common"]
+	path = Documents/Visual Studio 2017/Projects/LoggingAssignment/platform-common
+	url = https://github.com/ConnexionsTravel/platform-common.git
+[submodule "Documents/Visual Studio 2017/Projects/LoggingAssignment/LoggingAssignment/platform-common"]
+	path = Documents/Visual Studio 2017/Projects/LoggingAssignment/LoggingAssignment/platform-common
+	url = https://github.com/ConnexionsTravel/platform-common.git
